@@ -1,0 +1,13 @@
+{
+	"apiVersion": 2,
+	"name": "drbfd/blocks-for-discogs",
+	"title": "Blocks for Discogs",
+	"category": "embed",
+	"description": "Display your collection from Discogs in a Gutenberg block or shortcode. Be sure to enter your user name and Discogs.com token in Blocks for Discogs settings.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "blocks-for-discogs",
+	"editorScript": "file:./build/index.js",
+	"style": "file:./build/style-index.css"
+}
